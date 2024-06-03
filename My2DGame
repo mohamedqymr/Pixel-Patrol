@@ -1,0 +1,14 @@
+My2DGame/
+│
+├── index.html
+├── main.js
+├── style.css
+└── assets/
+    ├── images/
+    │   ├── player.png
+    │   ├── enemy.png
+    │   └── ...
+    └── sounds/
+        ├── background.mp3
+        ├── hit.wav
+        └── ...
